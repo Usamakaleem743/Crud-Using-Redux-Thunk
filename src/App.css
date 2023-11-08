@@ -1,0 +1,14 @@
+.addnew{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 710px;
+}
+
+.addnew form{
+  background-color: rgb(224, 100, 255);
+  width: 350px;
+  padding: 3%;
+  border-radius: 10px;
+  color: rgb(255, 255, 255);
+}
